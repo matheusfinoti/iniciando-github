@@ -36,7 +36,7 @@ namespace ConsoleApp1 {
                     }
                 }
             }
-            Console.WriteLine("Teste 1");
+            Console.WriteLine("Teste");
 
         }
     }
